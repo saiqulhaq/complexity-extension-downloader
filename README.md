@@ -1,9 +1,7 @@
 # Complexity Extension Downloader
 
-A utility script that automatically downloads and extracts the latest version of the [Complexity Chrome extension](https://github.com/pnd280/complexity) for Perplexity AI.
-
-[![License: MIT](https://img.shields.io/baopensource.org/licenses/M script automates 
-the process of downloading and extracting the Complexity extension, saving you time and effort. 
+A utility script that automatically downloads and extracts the latest version of the [Complexity Chrome extension](https://github.com/pnd280/complexity) for Perplexity AI.  
+The script automates the process of downloading and extracting the Complexity extension, saving you time and effort. 
 Whether you're a developer looking to study the extension's source code or a curious 
 user wanting to explore how it works, this tool simplifies the process.
 
