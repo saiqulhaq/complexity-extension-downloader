@@ -28,7 +28,7 @@ Perfect for developers, power users, and anyone who wants to stay at the cutting
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/complexity-extension-downloader.git
+git clone https://github.com/saiqulhaq/complexity-extension-downloader.git
 
 # Navigate to the directory
 cd complexity-extension-downloader
